@@ -1,3 +1,5 @@
+Clustering Analysis of Hobbes's Leviathan
+
 This project applies clustering analysis to the text of Hobbes's Leviathan, which is available on Project Gutenberg. The goal is to identify patterns in the text and group similar sections together.
 
 Data
